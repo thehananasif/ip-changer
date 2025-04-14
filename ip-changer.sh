@@ -16,8 +16,9 @@ echo "  _| |_| |      | |____| | | | (_| | | | | (_| |  __/ |     "
 echo " |_____|_|       \\_____|_| |_|\\__,_|_| |_|\\__, |\\___|_|     "
 echo "                                           __/ |            "
 echo "                                          |___/     V 1.0   "
+echo "                                               By Hanan Asif "
 echo -e "${NC}"
-echo -e "${YELLOW}Author: TechChip. https://www.youtube.com/@techchipnet ${NC}"
+echo -e "${YELLOW}Author: Hanan Asif. https://www.youtube.com/@HoloXinMarketing ${NC}"
 echo -e "${YELLOW}=========================================================${NC}\n"
 
 set -e
