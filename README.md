@@ -31,7 +31,7 @@ A simple and efficient tool to automatically change your IP address using Tor ne
 ## Run without Installation
 1. Clone the repository:
 ```bash
-git clone https://github.com/techchipnet/ip-changer.git
+git clone https://github.com/thehananasif/ip-changer.git
 cd ip-changer
 ```
 
@@ -121,7 +121,4 @@ This tool uses the Tor network to change your IP address. While Tor provides ano
 
 This project is licensed under the MIT License.
 
-### Video Demo
-[![Hound Demo](https://img.youtube.com/vi/dcTlDILnrSY/0.jpg)](https://www.youtube.com/watch?v=dcTlDILnrSY)
-
-### For More Video subcribe <a href="http://youtube.com/techchipnet">TechChip YouTube Channel</a>
+### For More Video subcribe <a href="http://youtube.com/HoloXinMarketing">TechChip YouTube Channel</a>
