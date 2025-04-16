@@ -121,4 +121,4 @@ This tool uses the Tor network to change your IP address. While Tor provides ano
 
 This project is licensed under the MIT License.
 
-### For More Video subcribe <a href="http://youtube.com/HoloXinMarketing">TechChip YouTube Channel</a>
+### For More Video subcribe <a href="http://youtube.com/HoloXinMarketing"> HoloXin Marketing YouTube Channel</a>
